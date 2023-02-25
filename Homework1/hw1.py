@@ -18,8 +18,8 @@ import sys
 from datetime import datetime, timezone
 
 # create your API token, and set it up in Postman collection as part of the Body section
-API_TOKEN = "h0m3w0rk1(M@r!@)"
-API_KEY = '459JNKELW7CLAM2V9ZNWTEBDW'
+API_TOKEN = ""
+API_KEY = ""
 
 # include sections
 # values include days,hours,current,alerts
